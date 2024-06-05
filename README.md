@@ -19,6 +19,8 @@ This repository contains the PyTorch implementation for FineParser (CVPR 2024, O
     padding: 2px;">
   	</div>
 </center>
+
+
 ## Examples of FineDiving-HM
 
 <center>
