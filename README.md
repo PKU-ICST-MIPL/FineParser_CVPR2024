@@ -23,26 +23,11 @@ This repository contains the PyTorch implementation for FineParser (CVPR 2024, O
 
 ## Examples of FineDiving-HM
 
-<img src="images/image29.gif" style="width:30%; height:auto;"><img src="images/image29.gif" style="width:30%; height:auto;"><img src="images/image29.gif" style="width:30%; height:auto;">
+<img src="images/image29.gif" width="200"><img src="images/image34.gif" width="200"><img src="images/image35.gif" width="200">
 
-<center>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-      <img src="images/image29.gif"
-        alt="Video 1" style="width: 20%; margin: 0.5%;">
-      <img src="images/image34.gif"
-        alt="Video 1" style="width: 20%; margin: 0.5%;">
-      <img src="images/image35.gif"
-        alt="Video 1" style="width: 20%; margin: 0.5%;">
-      </div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-      <img src="images/image40.gif"
-        alt="Video 1" style="width: 30%; margin: 0.5%;">
-      <img src="images/image41.gif"
-        alt="Video 1" style="width: 30%; margin: 0.5%;">
-      <img src="images/image46.gif"
-        alt="Video 1" style="width: 30%; margin: 0.5%;">
-      </div>
-</center>
+<img src="images/image40.gif" width="180"><img src="images/image41.gif" width="180"><img src="images/image46.gif" width="180">
+
+
 
 
 ## Requirements
