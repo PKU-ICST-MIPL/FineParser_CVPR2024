@@ -23,9 +23,9 @@ This repository contains the PyTorch implementation for FineParser (CVPR 2024, O
 
 ## Examples of FineDiving-HM
 
-<img src="images/image29.gif" width="200"><img src="images/image34.gif" width="200"><img src="images/image35.gif" width="200">
+<img src="images/image29.gif" width="300"><img src="images/image34.gif" width="3300"><img src="images/image35.gif" width="300">
 
-<img src="images/image40.gif" width="180"><img src="images/image41.gif" width="180"><img src="images/image46.gif" width="180">
+<img src="images/image40.gif" width="300"><img src="images/image41.gif" width="300"><img src="images/image46.gif" width="300">
 
 
 
