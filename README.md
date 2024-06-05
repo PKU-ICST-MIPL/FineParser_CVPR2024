@@ -8,18 +8,10 @@ This repository contains the PyTorch implementation for FineParser (CVPR 2024, O
 
 ## Overview
 
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="images/poster.png" width = "100%" alt=""/>
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">
-        Overview of FineParser.
-  	</div>
-</center>
+<figure style="text-align: center;">
+  <img src="images/poster.png" alt="Description of image" style="width:50%;">
+  <figcaption>Overview of FineParser.</figcaption>
+</figure>
 
 ## Examples of FineDiving-HM
 
