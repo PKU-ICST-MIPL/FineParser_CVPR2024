@@ -26,11 +26,11 @@ This repository contains the PyTorch implementation for FineParser (CVPR 2024, O
 <center>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
       <img src="images/image29.gif"
-        alt="Video 1" style="width: 30%; margin: 0.5%;">
+        alt="Video 1" style="width: 20%; margin: 0.5%;">
       <img src="images/image34.gif"
-        alt="Video 1" style="width: 30%; margin: 0.5%;">
+        alt="Video 1" style="width: 20%; margin: 0.5%;">
       <img src="images/image35.gif"
-        alt="Video 1" style="width: 30%; margin: 0.5%;">
+        alt="Video 1" style="width: 20%; margin: 0.5%;">
       </div>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
       <img src="images/image40.gif"
