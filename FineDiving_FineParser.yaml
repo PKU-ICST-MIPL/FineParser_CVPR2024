@@ -1,0 +1,42 @@
+# basic
+bs_train : 2
+bs_test : 1
+workers : 8
+update_iter : 2
+max_epoch : 400
+warmup_epochs : 5
+
+# model
+pretrained_i3d_weight : 'models/model_rgb.pth'
+
+data_root : 'data/FINADiving_MTL_256s'
+label_path : 'Annotations/fine-grained_annotation_aqa.pkl'
+train_split : 'Annotations/train_split.pkl'
+test_split : 'Annotations/test_split.pkl'
+data_mask_root: 'data/diving_mask_annotation'
+
+
+
+# optimizer
+optimizer: 'Adam'
+weight_decay : 0
+base_lr : 0.001
+lr_factor : 0.1
+
+# others
+seed : 10086
+frame_length : 96
+voter_number : 10
+print_freq : 40
+log_freq : 10
+fix_size : 5
+step_num : 3
+prob_tas_threshold : 1.0
+random_choosing : False
+action_number_choosing: True
+cuda_device : 6
+resume: False
+temporal_shift_min : -3
+temporal_shift_max : 0
+wandb: False
+test: False
