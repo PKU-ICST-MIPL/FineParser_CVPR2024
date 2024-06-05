@@ -23,7 +23,7 @@ This repository contains the PyTorch implementation for FineParser (CVPR 2024, O
 
 ## Examples of FineDiving-HM
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
   <img src="images/image29.gif" alt="Image 1" style="width:30%;">
   <img src="images/image29.gif" alt="Image 2" style="width:30%;">
   <img src="images/image29.gif" alt="Image 3" style="width:30%;">
