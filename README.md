@@ -6,7 +6,7 @@ This repository contains the PyTorch implementation for FineParser (CVPR 2024, O
 
 [[Project Page]](https://pku-icst-mipl.github.io/FineParser_ProjectPage/) [[arXiv]](https://arxiv.org/abs/2405.06887)
 
-## Overvie
+## Overview
 
 <center>
     <img style="border-radius: 0.3125em;
