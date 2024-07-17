@@ -4,7 +4,7 @@ Created by [Jinglin Xu](http://39.108.48.32/XuWebsite/), [Sibo Yin](https://gith
 
 This repository contains the PyTorch implementation for FineParser (CVPR 2024, Oral).
 
-[[Project Page]](https://pku-icst-mipl.github.io/FineParser_ProjectPage/) [[arXiv]](https://arxiv.org/abs/2405.06887)
+[[Project Page]](https://pku-icst-mipl.github.io/FineParser_ProjectPage/) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_FineParser_A_Fine-grained_Spatio-temporal_Action_Parser_for_Human-centric_Action_Quality_CVPR_2024_paper.pdf)
 
 ## Overview
 
