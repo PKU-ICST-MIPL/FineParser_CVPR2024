@@ -40,10 +40,10 @@ pip install git+https://github.com/hassony2/torch_videovision
 
 ### FineDiving Download
 
-To download FineDiving dataset and annotations, please follow [FineDiving](https://github.com/xujinglin/FineDiving).
+To download the FineDiving dataset and annotations, please follow [FineDiving](https://github.com/xujinglin/FineDiving).
 
 ### FineDiving-HM Download
-To download the FineDiving dataset, please sign the [Release Agreement](agreement/Release_Agreement.pdf) and send it to send it to Jinglin Xu (xujinglinlove@gmail.com). By sending the application, you are agreeing and acknowledging that you have read and understand the notice. We will reply with the file and the corresponding guidelines right after we receive your request!
+To download FineDiving-HM, please sign the [Release Agreement](agreement/Release_Agreement.pdf) and send it to send it to Jinglin Xu (xujinglinlove@gmail.com). By sending the application, you are agreeing and acknowledging that you have read and understand the notice. We will reply with the file and the corresponding guidelines right after we receive your request!
 
 
 The format of the FineDiving-HM dataset division is consistent with FineDiving. Please place the downloaded FineDiving-HM in `data`. 
